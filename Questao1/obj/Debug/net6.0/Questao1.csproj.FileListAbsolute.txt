@@ -1,0 +1,17 @@
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\bin\Debug\net6.0\Questao1.exe
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\bin\Debug\net6.0\Questao1.deps.json
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\bin\Debug\net6.0\Questao1.runtimeconfig.json
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\bin\Debug\net6.0\Questao1.dll
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\bin\Debug\net6.0\Questao1.pdb
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\Questao1.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfo.cs
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\Questao1.dll
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\refint\Questao1.dll
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\Questao1.pdb
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\ref\Questao1.dll
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\victo\Downloads\Teste-Nivelamento-Desenvolvedor-CSharp-API-v3 (2)\Questao1\obj\Debug\net6.0\Questao1.csproj.CopyComplete
